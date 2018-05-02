@@ -1,7 +1,7 @@
 <package>
   <name>camera_aravis</name>
   <version>2.0.0</version>
-  <description>camera_aravis: An ethernet camera driver for ROS.</description>
+  <description>camera_aravis: A GenICam camera driver for ROS that supports GigEVision and USB3Vision among others.</description>
 
   <maintainer email="stevesafarik@gmail.com">Steve Safarik</maintainer>
 
